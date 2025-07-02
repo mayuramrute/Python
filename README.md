@@ -1,3 +1,3 @@
 # Python
-<br>Python Coding Topic Wise 
-Python code
+<br>
+Python Coding Topic Wise
